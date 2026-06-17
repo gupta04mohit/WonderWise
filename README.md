@@ -62,7 +62,7 @@ Agents communicate through a **shared state** using **LangGraph**, not by copyin
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/Its-Itachi/WonderWise.git
+git clone https://github.com/gupta04mohit/WonderWise.git
 cd WonderWise
 ````
 
@@ -154,9 +154,9 @@ WonderWise/
 
 ## 👤 Author
 
-**Name**: Jayesh Dethe
+**Name**: Mohit Gupta
 
-**GitHub**: [https://github.com/Its-Itachi](https://github.com/Its-Itachi)
+**GitHub**: [https://github.com/gupta04mohit/Mohitgupta](https://github.com/gupta04mohit/Mohitgupta)
 
 ---
 
