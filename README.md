@@ -154,7 +154,7 @@ WonderWise/
 
 ## 👤 Author
 
-**Name**: Mohit Gupta
+**Name**: Mohit Gupta 
 
 **GitHub**: [https://github.com/gupta04mohit/Mohitgupta](https://github.com/gupta04mohit/Mohitgupta)
 
@@ -184,3 +184,5 @@ If you find this project useful:
 ---
 
 Happy building and exploring the world with agents 🌍🧠
+
+

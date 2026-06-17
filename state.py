@@ -9,3 +9,5 @@ class TravelState(TypedDict, total=False):
     destination_info: str
     experiences: str
     itinerary: str
+
+    
