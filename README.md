@@ -1,6 +1,6 @@
 # 🧭 WonderWise — Multi-Agent Travel Planner
 
-👉 **Live App**: https://wonderwise-k5hpmmu4feskczig9ktrko.streamlit.app/
+👉 **Live App**: https://wonderwise-ai-travel-planner.streamlit.app/
 
 **WonderWise** is a **multi-agent AI travel planning application** built with **Streamlit**, **LangGraph**, and **Groq LLMs**.  
 It uses multiple specialized AI agents that collaborate to research destinations, recommend experiences, and generate a complete day-by-day travel itinerary.
@@ -127,7 +127,7 @@ http://localhost:8501
 
 The application is deployed on **Streamlit Cloud** and available publicly:
 
-🔗 [https://wonderwise-k5hpmmu4feskczig9ktrko.streamlit.app/](https://wonderwise-k5hpmmu4feskczig9ktrko.streamlit.app/)
+🔗 [https://wonderwise-ai-travel-planner.streamlit.app/](https://wonderwise-ai-travel-planner.streamlit.app/)
 
 ---
 
